@@ -4,6 +4,7 @@
 
 - <b>AWS</b>
   - [Launch an EC2 Instance in a VPC](https://github.com/DillonMeacham/AWS-Create-EC2-in-VPC)
+  - [Create a DynamoDB Table using CloudFormation](https://github.com/DillonMeacham/Create-DynamoDBTable-Using-CloudFormation)
 
 <h2>📃 Certifications</h2>
 
