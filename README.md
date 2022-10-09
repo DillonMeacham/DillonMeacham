@@ -6,6 +6,7 @@
   - [Launch an EC2 Instance in a VPC](https://github.com/DillonMeacham/AWS-Create-EC2-in-VPC)
   - [Create a DynamoDB Table using CloudFormation](https://github.com/DillonMeacham/Create-DynamoDBTable-Using-CloudFormation)
   - [Create Users and Manage Permissions Using Groups and Policies in IAM](https://github.com/DillonMeacham/Create-Users-and-Manage-Permissions-Using-Groups-and-Policies-in-IAM)
+  - [Setup Cross-Region S3 Bucket Replication](https://github.com/DillonMeacham/Setup-Cross-Region-S3-Bucket-Replication)
 
 <h2>📃 Certifications</h2>
 
