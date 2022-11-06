@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dillon, Welcome To My Portfolio!
 
-<h2> ☁ Cloud Projects:</h2>
+<h2> ☁ Cloud Projects</h2>
 
 - <b>AWS</b>
   - [Launch an EC2 Instance in a VPC](https://github.com/DillonMeacham/AWS-Create-EC2-in-VPC)
