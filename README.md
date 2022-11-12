@@ -9,6 +9,8 @@
   - [Setup Cross-Region S3 Bucket Replication](https://github.com/DillonMeacham/Setup-Cross-Region-S3-Bucket-Replication)
   - [Create a Static Website Using Amazon S3](https://github.com/DillonMeacham/Create-Static-Website-Using-AmazonS3/blob/main/README.md)
 
+- <b>Git</b>
+
 <h2>📃 Certifications</h2>
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8e01c296-c5ad-446b-a383-2240790b1c6e/public_url)
