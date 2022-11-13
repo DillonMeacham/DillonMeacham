@@ -9,7 +9,7 @@
   - [Setup Cross-Region S3 Bucket Replication](https://github.com/DillonMeacham/Setup-Cross-Region-S3-Bucket-Replication)
   - [Create a Static Website Using Amazon S3](https://github.com/DillonMeacham/Create-Static-Website-Using-AmazonS3/blob/main/README.md)
 
-- <b>Git</b>
+- <b>CI/CD</b>
   - [Changing Code with Git](https://github.com/DillonMeacham/Changing-Code-with-Git)
 
 <h2>📃 Certifications</h2>
