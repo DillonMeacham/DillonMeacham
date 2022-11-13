@@ -10,7 +10,7 @@
   - [Create a Static Website Using Amazon S3](https://github.com/DillonMeacham/Create-Static-Website-Using-AmazonS3/blob/main/README.md)
 
 - <b>CI/CD</b>
-  - [Changing Code with Git](https://github.com/DillonMeacham/Changing-Code-with-Git)
+  - Source Control Management(SCM): [Changing Code with Git](https://github.com/DillonMeacham/Changing-Code-with-Git)
 
 <h2>📃 Certifications</h2>
 
