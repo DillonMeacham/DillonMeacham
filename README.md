@@ -11,6 +11,7 @@
  
 - <b>Terraform</b>  
   - [Deploying an AWS EC2 Instance using Terraform](https://github.com/DillonMeacham/Deploying-AWS-EC2-with-Terraform/blob/main/README.md)
+  - [Setting Up an Apache Web Server on AWS using Terraform Provisioners]
 
 - <b>Git</b>
   - [Changing Code with Git](https://github.com/DillonMeacham/Changing-Code-with-Git)
