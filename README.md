@@ -13,7 +13,7 @@
   - [Deploying an AWS EC2 Instance using Terraform](https://github.com/DillonMeacham/Deploying-AWS-EC2-with-Terraform/blob/main/README.md)
 
 - <b>Git</b>
-  - Source Control Management(SCM): [Changing Code with Git](https://github.com/DillonMeacham/Changing-Code-with-Git)
+  - [Changing Code with Git](https://github.com/DillonMeacham/Changing-Code-with-Git)
 
 <h2>📃 Certifications</h2>
 
