@@ -8,6 +8,7 @@
   - [Create Users and Manage Permissions Using Groups and Policies in IAM](https://github.com/DillonMeacham/Create-Users-and-Manage-Permissions-Using-Groups-and-Policies-in-IAM)
   - [Setup Cross-Region S3 Bucket Replication](https://github.com/DillonMeacham/Setup-Cross-Region-S3-Bucket-Replication)
   - [Create a Static Website Using Amazon S3](https://github.com/DillonMeacham/Create-Static-Website-Using-AmazonS3/blob/main/README.md)
+  - [Deploy Amazon RDS Multi-AZ and Read Replica](https://github.com/DillonMeacham/Deploy-RDS-MultiAZ-and-ReadReplica/blob/main/README.md)
  
 - <b>Terraform</b>  
   - [Deploying an AWS EC2 Instance using Terraform](https://github.com/DillonMeacham/Deploying-AWS-EC2-with-Terraform)
