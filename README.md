@@ -15,8 +15,9 @@
   - [Setting Up an Apache Web Server on AWS using Terraform Provisioners](https://github.com/DillonMeacham/Create-ApacheWebServer-using-TerraformProvisioners)
   - [Building and Testing a Basic Terraform Module](https://github.com/DillonMeacham/Building-and-Testing-TerraformModule)
 
-- <b>Git</b>
+- <b>DevOps Projects</b>
   - [Changing Code with Git](https://github.com/DillonMeacham/Changing-Code-with-Git)
+  - [Basic DevOps Pipeline](https://github.com/DillonMeacham/basic-devops-pipeline)
 
 <h2>📃 Certifications</h2>
 
