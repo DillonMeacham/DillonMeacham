@@ -18,6 +18,9 @@
 - <b>DevOps Projects</b>
   - [Changing Code with Git](https://github.com/DillonMeacham/Changing-Code-with-Git)
   - [Basic DevOps Pipeline](https://github.com/DillonMeacham/basic-devops-pipeline)
+  
+ - <b>Python</b>
+    - [Python Projects](https://github.com/DillonMeacham/python-projects)
 
 <h2>📃 Certifications</h2>
 
