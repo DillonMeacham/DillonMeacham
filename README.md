@@ -3,7 +3,7 @@
 <h2> ☁ Cloud Projects</h2>
   
 - <b>Azure</b>
-  - [Create RG with Bash Script]
+  - [Create RG with Bash Script](https://github.com/DillonMeacham/bash-scripts)
   
 - <b>AWS</b>
   - [Launch an EC2 Instance in a VPC](https://github.com/DillonMeacham/AWS-Create-EC2-in-VPC)
