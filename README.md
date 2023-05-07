@@ -1,7 +1,10 @@
 <h1>Hi, I'm Dillon, Welcome To My Portfolio!
 
 <h2> ☁ Cloud Projects</h2>
-
+  
+- <b>Azure</b>
+  - [Create RG with Bash Script]
+  
 - <b>AWS</b>
   - [Launch an EC2 Instance in a VPC](https://github.com/DillonMeacham/AWS-Create-EC2-in-VPC)
   - [Create a DynamoDB Table using CloudFormation](https://github.com/DillonMeacham/Create-DynamoDBTable-Using-CloudFormation)
