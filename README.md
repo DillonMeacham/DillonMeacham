@@ -2,16 +2,18 @@
 
 <h2> ☁ Cloud Projects</h2>
   
+- <b>AWS</b>
+  - [AWS Cloud Resume Project](https://github.com/DillonMeacham/aws-cloud-resume-challenge)
+  - [Create a DynamoDB Table using CloudFormation](https://github.com/DillonMeacham/Create-DynamoDBTable-Using-CloudFormation)
+  - [Launch an EC2 Instance in a VPC](https://github.com/DillonMeacham/AWS-Create-EC2-in-VPC)
+  - [Setup Cross-Region S3 Bucket Replication](https://github.com/DillonMeacham/Setup-Cross-Region-S3-Bucket-Replication)
+  - [Deploy Amazon RDS Multi-AZ and Read Replica](https://github.com/DillonMeacham/Deploy-RDS-MultiAZ-and-ReadReplica/blob/main/README.md)
+  - [Create a Static Website Using Amazon S3](https://github.com/DillonMeacham/Create-Static-Website-Using-AmazonS3/blob/main/README.md)
+  - [Create Users and Manage Permissions Using Groups and Policies in IAM](https://github.com/DillonMeacham/Create-Users-and-Manage-Permissions-Using-Groups-and-Policies-in-IAM)
+  - [Create a Static Website Using Amazon S3](https://github.com/DillonMeacham/Create-Static-Website-Using-AmazonS3/blob/main/README.md)
+  
 - <b>Azure</b>
   - [Create RG with Bash Script](https://github.com/DillonMeacham/bash-scripts/blob/main/create_azure_resource_group)
-  
-- <b>AWS</b>
-  - [Launch an EC2 Instance in a VPC](https://github.com/DillonMeacham/AWS-Create-EC2-in-VPC)
-  - [Create a DynamoDB Table using CloudFormation](https://github.com/DillonMeacham/Create-DynamoDBTable-Using-CloudFormation)
-  - [Create Users and Manage Permissions Using Groups and Policies in IAM](https://github.com/DillonMeacham/Create-Users-and-Manage-Permissions-Using-Groups-and-Policies-in-IAM)
-  - [Setup Cross-Region S3 Bucket Replication](https://github.com/DillonMeacham/Setup-Cross-Region-S3-Bucket-Replication)
-  - [Create a Static Website Using Amazon S3](https://github.com/DillonMeacham/Create-Static-Website-Using-AmazonS3/blob/main/README.md)
-  - [Deploy Amazon RDS Multi-AZ and Read Replica](https://github.com/DillonMeacham/Deploy-RDS-MultiAZ-and-ReadReplica/blob/main/README.md)
  
 - <b>Terraform</b>  
   - [Deploying an AWS EC2 Instance using Terraform](https://github.com/DillonMeacham/Deploying-AWS-EC2-with-Terraform)
