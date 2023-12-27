@@ -1,9 +1,9 @@
 <h1>Hi, I'm Dillon, Welcome To My Portfolio!
 
-<h2>Projects</h2>
+<h2>Check out some of my Projects</h2>
 AWS Cloud Resume (https://github.com/DillonMeacham/aws-cloud-resume-challenge)
 
-<h2>Certifications</h2>
+<h2>Active Certifications</h2>
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8e01c296-c5ad-446b-a383-2240790b1c6e/public_url)
 - [Linux Essentials](https://bit.ly/3U7PQNN)
